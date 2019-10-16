@@ -57,9 +57,9 @@ http://shiru.untergrund.net/software.shtml
 # but Gimp has many fans... and it's free
 https://www.gimp.org/downloads/
 
-# Aseprite is my favorite pixel art tool.  It's not free, but it's reasonably priced.
+# Aseprite is my favorite pixel art tool.  It's not free, but it's reasonably priced if you dont build it yourself.
 https://www.aseprite.org/
-
+https://github.com/aseprite/aseprite/
 
 
 
